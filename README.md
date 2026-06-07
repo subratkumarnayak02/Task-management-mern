@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Task Management System
 
 MERN stack task management application.
@@ -13,5 +12,4 @@ MERN stack task management application.
 
 Coming soon...
 =======
-# Task-management-mern
->>>>>>> 604a44e3524e2200dce4a5f8bd026dc59ae89725
+
