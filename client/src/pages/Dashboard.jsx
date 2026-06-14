@@ -99,7 +99,7 @@ function Dashboard() {
         }}
       >
         <div>
-          <h2 style={{ margin: 0 }}>Welcome back, {user.name}! 👋</h2>
+          <h2 style={{ margin: 0 }}>Welcome {user.name}! 👋</h2>
           <p style={{ margin: "5px 0 0", color: "#6c757d" }}>{user.email}</p>
         </div>
         <button
