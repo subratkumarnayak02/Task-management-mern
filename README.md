@@ -91,7 +91,7 @@ task-management-mern/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/task-management-mern.git
+git clone https://github.com/subratkumarnayak02/Task-management-mern.git
 cd task-management-mern
 ```
 
